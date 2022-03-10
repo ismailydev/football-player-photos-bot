@@ -2,10 +2,10 @@
     "name": "football-player-photos-bot",
     "version": "1.0.0",
     "description": "",
-    "main": "app.js",
+    "main": "index.js",
     "scripts": {
         "start": "micro-bot",
-        "bot": "nodemon app.js"
+        "bot": "nodemon index.js"
     },
     "keywords": [],
     "author": "",
